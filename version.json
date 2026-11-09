@@ -1,8 +1,8 @@
 {
-    "versionCode":  999,
-    "versionName":  "1.2.3-ota-test",
+    "versionCode":  7,
+    "versionName":  "1.2.2",
     "apkUrl":  "https://raw.githubusercontent.com/hemo528/WatchCat-OTA/main/apk/watchcat-1.2.2.apk",
-    "changelog":  "OTA 端到端测试清单，验证弹窗、下载与安装器拉起。",
+    "changelog":  "1. 新增软件内 OTA 更新：启动后台检查 GitHub 仓库的新版本，发现更新时弹窗提示（每天最多一次）。\n2. 设置页新增「应用更新」卡片，可手动检查并下载安装。\n3. 修复与优化：显式确认主机指纹、切后台延迟断开 SSH、仅前台轮询、图表实时窗口不再闪动、SFTP 上传到当前目录。",
     "sizeBytes":  23753786,
     "sha256":  "270269141c752221cb6213f55dded8cff95d1804b6a5e03792a1058beb2c5cf2",
     "publishedAt":  "2026-11-10"
