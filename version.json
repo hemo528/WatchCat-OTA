@@ -1,0 +1,9 @@
+{
+  "versionCode": 7,
+  "versionName": "1.2.2",
+  "apkUrl": "https://raw.githubusercontent.com/hemo528/WatchCat-OTA/main/apk/watchcat-1.2.2.apk",
+  "changelog": "1.2.2 更新：\n• 新增应用内 OTA 更新，启动时后台检查 GitHub 仓库，每天最多提醒一次\n• 设置页新增「检查更新」按钮，可手动检查并安装\n• 更新包 HTTPS 下载 + SHA-256 校验，安装走系统安装器",
+  "sizeBytes": 23753786,
+  "sha256": "270269141c752221cb6213f55dded8cff95d1804b6a5e03792a1058beb2c5cf2",
+  "publishedAt": "2026-11-10"
+}

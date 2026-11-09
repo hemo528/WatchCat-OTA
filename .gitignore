@@ -1,0 +1,7 @@
+# 临时文件
+*.part
+*.tmp
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
